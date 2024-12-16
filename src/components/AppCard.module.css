@@ -1,0 +1,33 @@
+.card {
+    margin-bottom: 3.2rem;
+    border-radius: 1.1rem;
+    overflow: hidden;
+}
+
+
+/*CARD TOP*/
+img {
+    display: block;
+}
+
+/*CARD BOTTOM*/
+.cardBottom {
+    background-color: rgb(255, 255, 255);
+    padding: 0 0.5rem;
+}
+
+.title {
+    padding: 0.8rem 0;
+    display: inline-block;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: rgb(255, 165, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 0.5rem 0.8rem;
+    margin: 1rem 0;
+    font-weight: bold;
+}
+
